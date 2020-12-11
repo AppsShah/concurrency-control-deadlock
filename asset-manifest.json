@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OS-concurrency-control-Deadlock-/static/css/main.bd244557.chunk.css",
+    "main.js": "/OS-concurrency-control-Deadlock-/static/js/main.ec6cdc14.chunk.js",
+    "main.js.map": "/OS-concurrency-control-Deadlock-/static/js/main.ec6cdc14.chunk.js.map",
+    "runtime-main.js": "/OS-concurrency-control-Deadlock-/static/js/runtime-main.ff12bf39.js",
+    "runtime-main.js.map": "/OS-concurrency-control-Deadlock-/static/js/runtime-main.ff12bf39.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/OS-concurrency-control-Deadlock-/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.014d05fa.chunk.js": "/OS-concurrency-control-Deadlock-/static/js/2.014d05fa.chunk.js",
+    "static/js/2.014d05fa.chunk.js.map": "/OS-concurrency-control-Deadlock-/static/js/2.014d05fa.chunk.js.map",
+    "index.html": "/OS-concurrency-control-Deadlock-/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/OS-concurrency-control-Deadlock-/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.bd244557.chunk.css.map": "/OS-concurrency-control-Deadlock-/static/css/main.bd244557.chunk.css.map",
+    "static/js/2.014d05fa.chunk.js.LICENSE.txt": "/OS-concurrency-control-Deadlock-/static/js/2.014d05fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff12bf39.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.014d05fa.chunk.js",
+    "static/css/main.bd244557.chunk.css",
+    "static/js/main.ec6cdc14.chunk.js"
+  ]
+}

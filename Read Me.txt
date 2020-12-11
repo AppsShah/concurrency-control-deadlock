@@ -1,0 +1,5 @@
+hello everyone my name is Akshat Shah and this is our OS project so to Run it
+use command in the CMD 
+from download Cd OS
+the cd project
+then enter command npm start

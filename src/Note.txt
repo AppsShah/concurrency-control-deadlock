@@ -1,0 +1,3 @@
+ani andar jo counting semaphore ni error ava toh a folder ma shift kariyu etla che
+so try this
+import Csem from "./counting/Csem"
