@@ -1,6 +1,5 @@
 {
   "name": "project",
-  "homepage": "https://AppsShah.github.io/OS-concurrency-control-Deadlock-",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
